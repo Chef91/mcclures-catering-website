@@ -1,0 +1,20 @@
+/* Nav Font */
+.top-font  {
+  font-family: lobster, serif;
+}
+/* Carousel Adjustments */
+.c-itm  {
+  height: 480px;
+}
+.c-img  {
+  height: 100%;
+  object-fit: cover;
+  filter:brightness(0.5);
+}
+/* Carousel Fonts */
+.h-txt  {
+  font-family: lobster, serif;
+}
+.p-txt  {
+  font-family: Oswald serif;
+}
