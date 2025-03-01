@@ -1,8 +1,8 @@
-/* Nav Font */
+/* Nav */
 .top-font  {
   font-family: lobster, serif;
 }
-/* Carousel Adjustments */
+/* Carousel */
 .c-itm  {
   height: 480px;
 }
@@ -11,10 +11,14 @@
   object-fit: cover;
   filter:brightness(0.5);
 }
-/* Carousel Fonts */
 .h-txt  {
   font-family: lobster, serif;
 }
 .p-txt  {
   font-family: Oswald serif;
+}
+/* Overview */
+.overview  {
+  height: 130px;
+  background-color: rgb(163, 163, 163);
 }
