@@ -7,6 +7,10 @@ This is a catering company created by Chef Wesley Graham that was created to hel
 ...
 
 ## Project Changelog
+<ul>
+<li>3/7/2025 - Landing Page Update</li>
+</ul>
+<p>Working on section below the Overview Section. Added an image and some text. Set the background. Also altered some of the text in the Overview section.</p>
 
 <ul>
 <li>3/1/2025 - Landing Page Update<li>

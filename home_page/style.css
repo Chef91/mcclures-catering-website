@@ -15,10 +15,23 @@
   font-family: lobster, serif;
 }
 .p-txt  {
-  font-family: Oswald serif;
+  font-family: Oswald, serif;
 }
 /* Overview */
 .overview  {
   height: 130px;
-  background-color: rgb(163, 163, 163);
+  background-color: rgb(209, 209, 209);
+}
+/* About Us Area */
+.about-us  {
+  background-color: rgb(35, 35, 36);
+}
+.abt-img  {
+  border-radius: 0px 0px 20px 20px
+}
+.abt-txt  {
+  font-family: Oswald, serif;
+}
+.abt-txt, .abt-txt2  {
+  color: rgb(209, 209, 209);
 }
