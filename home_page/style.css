@@ -25,13 +25,26 @@
 /* About Us Area */
 .about-us  {
   background-color: rgb(35, 35, 36);
+  border-bottom: 1px solid rgb(56, 56, 56);
 }
 .abt-img  {
-  border-radius: 0px 0px 20px 20px
+  border-radius: 20px 20px 20px 20px
 }
 .abt-txt  {
   font-family: Oswald, serif;
 }
 .abt-txt, .abt-txt2  {
   color: rgb(209, 209, 209);
+}
+
+/* Services */
+.services  {
+  background-color: rgb(35, 35, 36);
+  border-bottom: 1px solid rgb(56, 56, 56);
+}
+/* Media Queries */
+@media only screen and (max-width: 600px) {
+  .fix {
+  flex-direction: column;
+  }
 }
