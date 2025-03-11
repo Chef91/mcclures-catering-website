@@ -8,6 +8,11 @@ This is a catering company created by Chef Wesley Graham that was created to hel
 
 ## Project Changelog
 <ul>
+<li>3/11/2025 - Landing Page Update & Added bootstrap into project</li>
+</ul>
+<p>Added bootstrap folder through download instead of imported through the links from the bs5 website. Created a folder for the files used for BS5. Icons needed to be swapped due to changeover from how bootstrap was being used in this project.</p>
+
+<ul>
 <li>3/9/2025 - Landing Page Update</li>
 </ul>
 <p>Worked more the "About Us" section. Adjusted the containers and centered them for full size view. Having issues with mobile (sm-col view). Added "services" to the landing page.</p>
